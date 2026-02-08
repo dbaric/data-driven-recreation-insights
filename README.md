@@ -18,11 +18,15 @@ It is not a significant predictor of the binary outcome, but is significant for 
 
 Given the literature, **group onboarding by faculty** (shared first experiences) remains a sensible guideline for programs, though the evidence in this sample is limited to effects on visit count rather than on the binary engagement threshold.
 
-![Reservations per distance](docs/social-activation.png)
+![Social activation](docs/social-activation.png)
 
 #### Is there an activation barrier (a critical threshold) for sport habit formation? ([full analysis](notebooks/social-activation.ipynb))
 
-> tba
+Users with ≥3 attendances within the first 21 days have 5.8× higher probability of becoming regular participants. Once crossed, behavior becomes self-sustaining.
+
+Given the theory of **activation energy in habit formation** (analogous to the chemical concept), the finding provides empirical support in the domain of public health and university sport.
+
+![Activation barrier](docs/activation-barrier.png)
 
 #### Behavior-change design: hierarchy or synergy? ([full analysis](notebooks/social-activation.ipynb))
 
