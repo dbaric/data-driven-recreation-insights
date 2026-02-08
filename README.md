@@ -12,11 +12,13 @@ The second (simpler!) part is **operational analytics**: it builds data pipeline
 
 ### Hypothesis
 
-> (scientific?) work in progress.
-
 #### Does social activation drive sport habit formation? ([full analysis](notebooks/social-activation.ipynb))
 
-> tba
+It is not a significant predictor of the binary outcome, but is significant for the continuous outcome. Users who attended the first event with colleagues have on average more visits, but do not achieve a significantly higher rate of crossing the regular-participation threshold.
+
+Given the literature, **group onboarding by faculty** (shared first experiences) remains a sensible guideline for programs, though the evidence in this sample is limited to effects on visit count rather than on the binary engagement threshold.
+
+![Reservations per distance](docs/social-activation.png)
 
 #### Is there an activation barrier (a critical threshold) for sport habit formation? ([full analysis](notebooks/social-activation.ipynb))
 
