@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+*.egg-info
+build/
+eggs/
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+.hypothesis/
+*.cover
+.mypy_cache/
+.ruff_cache/
+
+# data/cache - sve osim .gitkeep
+data/cache/*
+!data/cache/.gitkeep
+
+# data/source - sve osim .gitkeep
+data/source/*
+!data/source/.gitkeep
+
+# data/dist - sve osim .gitkeep
+data/dist/*
+!data/dist/.gitkeep
+
+# data/notebooks - sve osim .gitkeep
+notebooks/*
+!notebooks/.gitkeep
+
+TODO.md
