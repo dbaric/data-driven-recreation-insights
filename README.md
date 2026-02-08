@@ -22,15 +22,19 @@ Given the literature, **group onboarding by faculty** (shared first experiences)
 
 #### Is there an activation barrier (a critical threshold) for sport habit formation? ([full analysis](notebooks/social-activation.ipynb))
 
-Users with ≥3 attendances within the first 21 days have 5.8× higher probability of becoming regular participants. Once crossed, behavior becomes self-sustaining.
+Users with ≥3 attendances within the first 21 days have a 5.8× higher probability of becoming regular participants. Once crossed, behavior becomes self-sustaining.
 
 Given the theory of **activation energy in habit formation** (analogous to the chemical concept), the finding provides empirical support in the domain of public health and university sport.
 
 ![Activation barrier](docs/activation-barrier.png)
 
-#### Behavior-change design: hierarchy or synergy? ([full analysis](notebooks/social-activation.ipynb))
+#### Behavior-change design: hierarchy or synergy? ([full analysis](notebooks/behavior-change-design.ipynb))
 
-> tba
+Public health interventions for physical activity are often assumed to be multi-pronged. The data suggest a clear hierarchy: early frequency dominates. Achieving ≥3 attendances within the first 21 days accounts for most of the observed effect. Social context (faculty colleagues and/or neighbours) amplifies this, while variety emerges naturally.
+
+Early frequency dominates sport habit formation so strongly that without it, other components contribute little. This supports a single-factor priority rule and a Pareto-like, highly front-loaded distribution of behavior change effects driven by frequency.
+
+![Behavior-change design](docs/behavior-change-design.png)
 
 ### Segmentation
 
