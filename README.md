@@ -14,15 +14,15 @@ The second (simpler!) part is **operational analytics**: it builds data pipeline
 
 > (scientific?) work in progress.
 
-#### Does social activation drive sport habit formation?
+#### Does social activation drive sport habit formation? ([full analysis](notebooks/social-activation.ipynb))
 
 > tba
 
-#### Is there an activation barrier (a critical threshold) for sport habit formation?
+#### Is there an activation barrier (a critical threshold) for sport habit formation? ([full analysis](notebooks/social-activation.ipynb))
 
 > tba
 
-#### Behavior-change design: hierarchy or synergy?
+#### Behavior-change design: hierarchy or synergy? ([full analysis](notebooks/social-activation.ipynb))
 
 > tba
 
